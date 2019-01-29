@@ -1,3 +1,3 @@
-# pretendhotel
+# hotel
 
-This is not a real hotel. 
+Demonstration web app for the machine conversational platform
